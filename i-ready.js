@@ -1,7 +1,7 @@
 /*
  i-ready.js version 16.9
  deobfuscated by pwR
- unfourtunetly, i was unable to recover the original function names
+ function names restoreed by Unixityyy
  */
 
 var arrDomain = location.hostname.split('.');
